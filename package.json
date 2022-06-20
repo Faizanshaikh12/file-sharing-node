@@ -1,0 +1,14 @@
+{
+  "name": "file-sharing-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Faizanshaikh12/file-sharing-node.git",
+  "author": "Faizanshaikh12 <faizanroy000777@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
